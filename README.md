@@ -1,4 +1,5 @@
 ### ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <!--
 **luizC420/luizC420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
