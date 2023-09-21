@@ -1,6 +1,6 @@
 ### 
 
-Me chamo Luiz Costa, tenho 16 anos e moro em Portugal.
+Me chamo Luiz Costa, tenho 17 anos.
 
 **Programming Languages :**
 
