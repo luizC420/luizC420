@@ -1,6 +1,5 @@
 ### 
 
-Me chamo Luiz Costa, tenho 17 anos.
 
 **Programming Languages :**
 
